@@ -1,0 +1,11 @@
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.exe
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.deps.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.runtimeconfig.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.runtimeconfig.dev.json
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\bin\Debug\netcoreapp3.1\GameCompletion.pdb
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\obj\Debug\netcoreapp3.1\GameCompletion.csprojAssemblyReference.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\obj\Debug\netcoreapp3.1\GameCompletion.AssemblyInfoInputs.cache
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\obj\Debug\netcoreapp3.1\GameCompletion.AssemblyInfo.cs
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\obj\Debug\netcoreapp3.1\GameCompletion.dll
+C:\Users\JSTEMPOWSKI\OneDrive - Knex\Desktop\GameCompletion\GameCompletion\obj\Debug\netcoreapp3.1\GameCompletion.pdb
